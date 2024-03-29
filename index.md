@@ -1,4 +1,3 @@
-# Ať žije Táborka, vyšehradské komunitní centrum
 ![Logo táborka](Táborka-logo.png "logo taborka")
 Táborská brána na Vyšehradě už není jen historickou památkou. Od jara 2023 je místem setkávání, kde mohou místní tvořit, relaxovat a vzdělávat se. Prostor, kde se potkávají sousedé, kteří by se jinak nepotkali a to hned ze 4 čtvrtí, které Vyšehrad obklopují. Překážkou jim není věk, hendikep či finanční možnosti. Podpořte mezigenerační křižovatku!
 
