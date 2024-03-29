@@ -30,4 +30,4 @@ Tak stránky máte..
 
 Táborka z.s., \
 IČO 19535970\
-[taborka-vysehrad@gmail.com](mailto:taborka-vysehrad@gmail.com)
+[taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)
