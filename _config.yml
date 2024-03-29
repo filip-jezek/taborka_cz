@@ -1,18 +1,16 @@
-title: Ať žije Táborka!
-author: 
-  name: Filip Jezek
-  email: taborka-vysehrad@gmail.com
+# title: Ať žije Táborka!
+# author: Filip Jezek
 
-description: >
-  Táborská brána na Vyšehradě už není jen historickou památkou. Od jara 2023 je místem setkávání, kde mohou místní tvořit, relaxovat a vzdělávat se. Prostor, kde se potkávají sousedé, kteří by se jinak nepotkali a to hned ze 4 čtvrtí, které Vyšehrad obklopují. Překážkou jim není věk, hendikep či finanční možnosti. Podpořte mezigenerační křižovatku!
+# description: >
+#  Táborská brána na Vyšehradě už není jen historickou památkou. Od jara 2023 je místem setkávání, kde mohou místní tvořit, relaxovat a vzdělávat se. Prostor, kde se potkávají sousedé, kteří by se jinak nepotkali a to hned ze 4 čtvrtí, které Vyšehrad obklopují. Překážkou jim není věk, hendikep či finanční možnosti. Podpořte mezigenerační křižovatku!
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-plugins:
-  - jekyll-feed
+# plugins:
+#  - jekyll-feed
   - jekyll-seo-tag
 
 # Theme-specific settings
@@ -59,6 +57,4 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-  google-analytics: G-LHG14XTJ7H
-  
-google-analytics: G-LHG14XTJ7H
+google_analytics: G-LHG14XTJ7H
