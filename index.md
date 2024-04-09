@@ -14,11 +14,10 @@ Přijďte se zeptat, co vás zajímá a rozhodnout s námi, zda se přidáme k o
 ![kralickovabiozelenina](Imgs/kralickovabiozelenina.jpg)
 
 ### Jarní TenBlešák
-<p>
 <a href="Imgs/2024-04-TenBlesak_fullRes.jpg"><img align="right" width="150" src="Imgs/2024-04-TenBlesak.jpg"></a>
 
 Navštivte v **pátek 26.4. od 14h** tradiční jarní benefiční TenBlešák před TaKavárnou (100m od Táborské brány, Na Topolce 1b). Darujte co již nevyužijete či neunosíte a pošlete to dál. Dětští prodejci vítáni. Veškerý výtěžek jde na podporu tréninkového programu [TA KAVÁRNY](http://www.takavarna.cz/). 
-</p>
+
 <br />
 <br />
 <br />
