@@ -18,7 +18,7 @@ Není. Zelenina bude přivezena tak, jak se zrovna urodí. Máte tak zaručeno, 
 
 **Jak to celé probíhá?**
 
-Zelenina se odebírá **_1x za 14 dní_** v Táborce a to v **_pondělí od 18:00 do 20:00._** Každý odběr je přidělená služba, která se skládá z min. 2 lidí. Služba přijde na místo o trochu dříve a převezme zeleninu od pana Králíčka, který sdělí informace o tom, jak má vypadat jeden příděl (např. 1ks brokolice, hrách 0,5kg, bylinky, cibule svazek, salát 2ks, brambory 2kg... Na místě bude k dispozici váha. Všichni ostatní členové KPZ mohou kdykoliv v tento čas přijít a převzít si svůj podíl. Služba zůstane na místě do konce odběru, zajistí úklid odběrného místa a zamkne Táborku. ![](KPZ_pic1.jpg)
+Zelenina se odebírá **_1x za 14 dní_** v Táborce a to v **_pondělí od 18:00 do 20:00._** Každý odběr je přidělená služba, která se skládá z min. 2 lidí. Služba přijde na místo o trochu dříve a převezme zeleninu od pana Králíčka, který sdělí informace o tom, jak má vypadat jeden příděl (např. 1ks brokolice, hrách 0,5kg, bylinky, cibule svazek, salát 2ks, brambory 2kg... Na místě bude k dispozici váha. Všichni ostatní členové KPZ mohou kdykoliv v tento čas přijít a převzít si svůj podíl. Služba zůstane na místě do konce odběru, zajistí úklid odběrného místa a zamkne Táborku. ![](KPZ_pic1.jfif)
 
 **Kolik to stojí?**
 
