@@ -50,7 +50,7 @@ Ideální je, když dáte vědět vaším kamarádům, sousedům apod., a ti si 
 
 **Vím vše, chci se přidat!**
 
-Stačí se [registrovat](https://forms.gle/oTo25KnvjsUN8kZq6)) a zaplatit první splátku nejpozději do 24.dubna.
+Stačí se [registrovat](https://forms.gle/oTo25KnvjsUN8kZq6) a zaplatit první splátku nejpozději do 24.dubna.
 
 **Koordinátor:** 
 
