@@ -7,11 +7,10 @@
 
 ## Aktuálně
 
-### Setkání s farmářem KPZ (komunitně podporované zemědělství)
-Rádi bychom založili skupinu odběratelů ovoce a zeleniny přímo od farmáře se závozem do Táborské brány. Ve **čtvrtek 11. 4. od 17** hodin proto pořádáme setkání se zemědelcem panem [Králičkem z Nového Bydžova](http://www.kralickovabiozelenina.cz/), který by nám zeleninu mohl zavážet.
-Přijďte se zeptat, co vás zajímá a rozhodnout s námi, zda se přidáme k odběratelům. I pokud nemáte zájem o odběr, přijďte se dozvědět vše, co jste kdy chtěli vědět o pěstování zeleniny v biokvalitě a neměli příležitost se zeptat.
- \
-![kralickovabiozelenina](Imgs/kralickovabiozelenina.jpg)
+### KPZ (komunitně podporované zemědělství)
+Chcete pravidelný závoz sezonní biozeleniny od českého farmáře? Zapojte se do Táborské KPZ! KPZ, neboli Komunitou Podporované Zemědělství, funguje na principu “předplatného” zeleniny přímo od farmáře. Cíl je mít kvalitní biozeleninu za dostupnou cenu, ta naše bude od pana Králíčka. [Více informací](Pages/KPZ_info.html)
+
+[Chci se přidat!](https://forms.gle/oTo25KnvjsUN8kZq6)
 
 ### Jarní TenBlešák
 <a href="Imgs/2024-04-TenBlesak_fullRes.jpg"><img align="right" width="150" src="Imgs/2024-04-TenBlesak.jpg"></a>
