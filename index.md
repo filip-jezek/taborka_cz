@@ -26,10 +26,13 @@ Navštivte v **pátek 26.4. od 14h** tradiční jarní benefiční TenBlešák p
 ![program aktualni](Programy/Táborka-DUBEN-2024.jpg)
 
 ## Programy minulé
-* [Duben 2024](Programy/Táborka-DUBEN-2024.pdf)
+* [Duben 2024](Programy/Táborka-DUBEN-2024.pdf )
 * [Březen 2024](Programy/Táborka-BŘEZEN-2024-v2d.pdf)
 * [Leden-únor 2024](Programy/Taborka-A4-plakat-ledenunor.pdf)
-
+* [Prosinec 2023](Programy/Taborka-2023-12.jpg)
+* [Listopad 2023](Programy/Taborka-2023-11.jpg)
+* [Říjen 2023](Programy/Táborka-2023-10rijen.pdf)
+* [Září 2023](Programy/Táborka-2023-09zari.pdf)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
