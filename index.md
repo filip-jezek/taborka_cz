@@ -7,25 +7,16 @@
 
 ## Aktuálně
 
-### KPZ (komunitně podporované zemědělství)
-Chcete pravidelný závoz sezonní biozeleniny od českého farmáře? Zapojte se do Táborské KPZ! KPZ, neboli Komunitou Podporované Zemědělství, funguje na principu “předplatného” zeleniny přímo od farmáře. Cíl je mít kvalitní biozeleninu za dostupnou cenu, ta naše bude od pana Králíčka. [Více informací](Pages/KPZ_info.html)
-
-[Chci se přidat!](https://forms.gle/oTo25KnvjsUN8kZq6)
-
-### Jarní TenBlešák
-<a href="Imgs/2024-04-TenBlesak_fullRes.jpg"><img align="right" width="150" src="Imgs/2024-04-TenBlesak.jpg"></a>
-
-Navštivte v **pátek 26.4. od 14h** tradiční jarní benefiční TenBlešák před TaKavárnou (100m od Táborské brány, Na Topolce 1b). Darujte co již nevyužijete či neunosíte a pošlete to dál. Dětští prodejci vítáni. Veškerý výtěžek jde na podporu tréninkového programu [TA KAVÁRNY](http://www.takavarna.cz/). 
-
 <br />
 <br />
 <br />
 <br />
 
-## Program duben
-![program aktualni](Programy/Táborka-DUBEN-2024.jpg)
+## Program květen
+![program aktualni](Programy/Taborka-2024-05.png)
 
 ## Programy minulé
+* [Květen 2024](Programy/Taborka-2024-05.pdf )
 * [Duben 2024](Programy/Táborka-DUBEN-2024.pdf )
 * [Březen 2024](Programy/Táborka-BŘEZEN-2024-v2d.pdf)
 * [Leden-únor 2024](Programy/Taborka-A4-plakat-ledenunor.pdf)
