@@ -7,34 +7,21 @@
 
 ## Aktuálně
 
-### V sobotu 11. května Táborka slaví první narozeniny!
-Je to neuvěřitelné, ale Táborka je tu s námi rok. Za tu dobu toho spoustu dokázala. Pojďme to společně oslavit a také si říct, kam posouvat Táborku dál a kde ji chceme mít příští rok! Začínáme v 15 hodin.
-
-**Co Vás čeká?**
-
-*  posezení na nově zabydlené zahradě a sousedská hostina, do které můžete přinést vlastní ochutnávky
-*  od 15 hodin zahraje fenomenální dvojice Bíťák Aleš a Folkáč Johy
-*  od 15:30 proběhne aukce obrazů dětských i dospělých talentů Táborky
-*  výtvarné aktivity pro děti
-*  knihobranní aneb odneste si z Táborky knihy, které vás zaujmou nebo vyvětrejte svou knihovnu a pošlete knihy dál!
+### Zahradní slavnost ve čtvrtek 13. června
+Jaro se přelamuje do léta, zahrada v plném květu, Táborka zve k posezení na zahradě! Kdo přinese nejlepší koláč?
 
 Těšíme se na Vás!
 Pozvěte své sousedy!
 
-### KPZ (komunitně podporované zemědělství)
-Chcete pravidelný závoz sezonní biozeleniny od českého farmáře? Zapojte se do Táborské KPZ! KPZ, neboli Komunitou Podporované Zemědělství, funguje na principu “předplatného” zeleniny přímo od farmáře. Cíl je mít kvalitní biozeleninu za dostupnou cenu, ta naše bude od pana Králíčka. [Více informací](Pages/KPZ_info.html)
-
-[Ještě je možnost se přidat!](https://forms.gle/oTo25KnvjsUN8kZq6)
-
-<br />
 <br />
 <br />
 <br />
 
-## Program květen
-![program aktualni](Programy/Taborka-2024-05.png)
+## Program červen
+![program aktualni](Programy/Taborka-2024-06.png)
 
 ## Programy minulé
+* [Červen 2024](Programy/Taborka-2024-06.pdf )
 * [Květen 2024](Programy/Taborka-2024-05.pdf )
 * [Duben 2024](Programy/Táborka-DUBEN-2024.pdf )
 * [Březen 2024](Programy/Táborka-BŘEZEN-2024-v2d.pdf)
