@@ -18,18 +18,18 @@ Pozvěte své sousedy!
 <br />
 
 ## Program červen
-![program aktualni](Programy/Táborka-2024-06.png)
+![program aktualni](Programy/Taborka-2024-06.png)
 
 ## Programy minulé
-* [Červen 2024](Programy/Táborka-2024-06.pdf )
-* [Květen 2024](Programy/Táborka-2024-05.pdf )
-* [Duben 2024](Programy/Táborka-DUBEN-2024.pdf )
-* [Březen 2024](Programy/Táborka-BŘEZEN-2024-v2d.pdf)
+* [Červen 2024](Programy/Taborka-2024-06.pdf )
+* [Květen 2024](Programy/Taborka-2024-05.pdf )
+* [Duben 2024](Programy/Taborka-DUBEN-2024.pdf )
+* [Březen 2024](Programy/Taborka-BŘEZEN-2024-v2d.pdf)
 * [Leden-únor 2024](Programy/Taborka-A4-plakat-ledenunor.pdf)
 * [Prosinec 2023](Programy/Taborka-2023-12.jpg)
 * [Listopad 2023](Programy/Taborka-2023-11.jpg)
-* [Říjen 2023](Programy/Táborka-2023-10rijen.pdf)
-* [Září 2023](Programy/Táborka-2023-09zari.pdf)
+* [Říjen 2023](Programy/Taborka-2023-10rijen.pdf)
+* [Září 2023](Programy/Taborka-2023-09zari.pdf)
 * [Jaro 2023](Programy/Taborka-2023-05PrvniJaro.jpg)
 
 ## Aktuální kalendář - co se děje
