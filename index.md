@@ -2,14 +2,10 @@
 [Táborská brána na Vyšehradě](https://mapy.cz/s/kupodozeju) už není jen historickou památkou. Od jara 2023 je místem setkávání, kde mohou místní tvořit, relaxovat a vzdělávat se. Prostor, kde se potkávají sousedé, kteří by se jinak nepotkali a to hned ze 4 čtvrtí, které Vyšehrad obklopují. Překážkou jim není věk, hendikep či finanční možnosti. Podpořte mezigenerační křižovatku!
 
 * [Odebírejte newsletter](https://dashboard.mailerlite.com/forms/349654/86367320907187267/share) a budete všechno vědět první
-* [Podpořte Táborku](https://www.darujme.cz/taborka)
+* [Podpořte zahradu Táborky](https://www.darujme.cz/taborka-ma-zahradu) - nadace Via nám Váš příspěvek zdvojnásobí!
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
 ## Aktuálně
-
-### Víkend otevřených zahrad
-
-**8. a 9. června** proběhne akce [Víkend otevřených zahrad](https://www.vikendotevrenychzahrad.cz/) a pro členy Komunitního centra Táborka bude 50 % sleva, tedy jen za 100 Kč. Zlevněný lze ale koupit jen fyzicky na pokladně s heslem „Komunitní centrum Táborka“. [Více o akci](https://www.vikendotevrenychzahrad.cz/narodni-kulturni-pamatka-vysehrad)
 
 ### Zahradní slavnost ve čtvrtek 13. června
 Jaro se přelamuje do léta, zahrada v plném květu, Táborka zve k posezení na zahradě! Kdo přinese nejlepší koláč?
@@ -43,6 +39,10 @@ Pozvěte své sousedy!
 ## Děkujeme
 *  [Nadace Via](https://www.nadacevia.cz/)
 *  [Národní kulturní památka Vyšehrad](https://www.praha-vysehrad.cz/cs)
+
+\
+---
+[[Edit]](https://github.com/filip-jezek/taborka_cz)
 
 \
 *Vaše*
