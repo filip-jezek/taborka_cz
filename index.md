@@ -41,12 +41,11 @@ Pozvěte své sousedy!
 *  [Národní kulturní památka Vyšehrad](https://www.praha-vysehrad.cz/cs)
 
 \
----
-[[Edit]](https://github.com/filip-jezek/taborka_cz)
-
-\
 *Vaše*
 
 Táborka z.s., \
 IČO 19535970\
 [taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)
+
+---
+*[[Edit]](https://github.com/filip-jezek/taborka_cz)*
