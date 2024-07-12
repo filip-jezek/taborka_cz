@@ -7,18 +7,18 @@
 
 ## Aktuálně
 
-### Zahradní slavnost ve čtvrtek 13. června
-Jaro se přelamuje do léta, zahrada v plném květu, Táborka zve k posezení na zahradě! Kdo přinese nejlepší koláč?
+### Zažít město jinak opět mezi Táborskou a Leopoldovou bránou
 
-Těšíme se na Vás!
-Pozvěte své sousedy!
+Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět přidáme k sousedských slavnostem. Program vám nebudeme ještě prozrazovat, ale bude hudba, bude blešák i sousedská hostina! Aktuality sledujte na [facebookové události](https://www.facebook.com/events/465723042715648) 
+
+![ZMJ](ZMJ-2024-invite.jpg)
 
 <br />
 <br />
 <br />
 
-## Program červen
-![program aktualni](Programy/Taborka-2024-06.png)
+## Program na léte
+![program aktualni](Programy/Taborka-2024-0708.png)
 
 ## Programy minulé
 * [Červen 2024](Programy/Taborka-2024-06.pdf )
