@@ -11,14 +11,14 @@
 
 Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět přidáme k sousedských slavnostem. Program vám nebudeme ještě prozrazovat, ale bude hudba, bude blešák i sousedská hostina! Aktuality sledujte na [facebookové události](https://www.facebook.com/events/465723042715648) 
 
-![ZMJ](ZMJ-2024-invite.jpg)
+![ZMJ](Imgs/ZMJ-2024-invite.jpg)
 
 <br />
 <br />
 <br />
 
-## Program na léte
-![program aktualni](Programy/Taborka-2024-0708.png)
+## Program na léto
+![program aktualni](Programy/Taborka-2024-0708.jpg)
 
 ## Programy minulé
 * [Červen 2024](Programy/Taborka-2024-06.pdf )
