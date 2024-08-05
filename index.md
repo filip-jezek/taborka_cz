@@ -17,7 +17,7 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 <br />
 <br />
 
-## Program na léte
+## Program na léto
 ![program aktualni](Programy/Taborka-2024-0708.png)
 
 ## Programy minulé
@@ -45,7 +45,8 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 
 Táborka z.s., \
 IČO 19535970\
-[taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)
-
+[taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)\
+[Stanovy spolku](Taborka-stanovy.pdf)\
+[Výroční zpráva 2023](Taborka-vyrocni zprava 2023.pdf)\
 ---
 *[[Edit]](https://github.com/filip-jezek/taborka_cz)*
