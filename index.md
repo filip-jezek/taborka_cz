@@ -43,10 +43,15 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 \
 *Vaše*
 
-Táborka z.s., \
-IČO 19535970\
+Táborka z.s.\
+IČO 19535970 \
+Ve Svahu 1, Praha 4
+(Ale najdete nás o kousek vedle, V pevnosti 35/11, Praha 2)
+
 [taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)\
-[Stanovy spolku](Taborka-stanovy.pdf)\
-[Výroční zpráva 2023](Taborka-vyrocni zprava 2023.pdf)\
+\
+[Stanovy spolku](Imgs/Taborka-stanovy.pdf)\
+[Výroční zpráva 2023](Imgs/Taborka-vyrocni zprava 2023.pdf)\
+\
 ---
 *[[Edit]](https://github.com/filip-jezek/taborka_cz)*
