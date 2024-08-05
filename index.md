@@ -11,7 +11,7 @@
 
 Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět přidáme k sousedských slavnostem. Program vám nebudeme ještě prozrazovat, ale bude hudba, bude blešák i sousedská hostina! Aktuality sledujte na [facebookové události](https://www.facebook.com/events/465723042715648) 
 
-![ZMJ](ZMJ-2024-invite.jpg)
+![ZMJ](Imgs/ZMJ-2024-invite.jpg)
 
 <br />
 <br />
