@@ -45,9 +45,9 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 
 Táborka z.s.\
 IČO 19535970 \
-Ve Svahu 1, Praha 4
-(Ale najdete nás o kousek vedle, V pevnosti 35/11, Praha 2)
-
+Ve Svahu 1, Praha 4 \
+(Ale najdete nás o kousek vedle, V pevnosti 35/11, Praha 2)\
+\
 [taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)\
 \
 [Stanovy spolku](Imgs/Taborka-stanovy.pdf)\
