@@ -18,9 +18,11 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 <br />
 
 ## Program na léto
-![program aktualni](Programy/Taborka-2024-0708.jpg)
+![program aktualni](Programy/Taborka-2024-09.png)
 
 ## Programy minulé
+* [Září](Programy/Taborka-2024-09.pdf)
+* [Červenec a srpen 2024](Programy/Taborka-2024-0708.jpg)
 * [Červen 2024](Programy/Taborka-2024-06.pdf )
 * [Květen 2024](Programy/Taborka-2024-05.pdf )
 * [Duben 2024](Programy/Taborka-DUBEN-2024.pdf )
