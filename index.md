@@ -2,14 +2,15 @@
 [Táborská brána na Vyšehradě](https://mapy.cz/s/kupodozeju) už není jen historickou památkou. Od jara 2023 je místem setkávání, kde mohou místní tvořit, relaxovat a vzdělávat se. Prostor, kde se potkávají sousedé, kteří by se jinak nepotkali a to hned ze 4 čtvrtí, které Vyšehrad obklopují. Překážkou jim není věk, hendikep či finanční možnosti. Podpořte mezigenerační křižovatku!
 
 * [Odebírejte newsletter](https://dashboard.mailerlite.com/forms/349654/86367320907187267/share) a budete všechno vědět první
-* [Podpořte zahradu Táborky](https://www.darujme.cz/taborka-ma-zahradu) - nadace Via nám Váš příspěvek zdvojnásobí!
+* [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
 ## Aktuálně
 
 ### Zažít město jinak opět mezi Táborskou a Leopoldovou bránou
 
-Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět přidáme k sousedských slavnostem. Aktuality sledujte na [facebookové události](https://www.facebook.com/events/465723042715648) 
+Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět přidáme k sousedských slavnostem. Bude hudba, bude blešák i sousedská hostina! Aktuality sledujte na [facebookové události](https://www.facebook.com/events/465723042715648) 
+
 
 ![ZMJ](Imgs/Plakat_ZMJ.png)
 
@@ -20,9 +21,12 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 ## Program říjen
 ![program aktualni](Programy/Taborka-2024-10rijen.png)
 
+## Aktuální kalendář - co se děje
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Programy minulé
 * [Říjen](Programy/Taborka-2024-10rijen.pdf)
-* [Září](Programy/Taborka-2024-09.pdf)
+* [Září 2024](Programy/Taborka-2024-09.pdf)
 * [Červenec a srpen 2024](Programy/Taborka-2024-0708.jpg)
 * [Červen 2024](Programy/Taborka-2024-06.pdf )
 * [Květen 2024](Programy/Taborka-2024-05.pdf )
@@ -34,10 +38,6 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 * [Říjen 2023](Programy/Taborka-2023-10rijen.pdf)
 * [Září 2023](Programy/Taborka-2023-09zari.pdf)
 * [Jaro 2023](Programy/Taborka-2023-05PrvniJaro.jpg)
-
-## Aktuální kalendář - co se děje
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 
 ## Děkujeme
 *  [Nadace Via](https://www.nadacevia.cz/)
