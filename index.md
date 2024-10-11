@@ -5,19 +5,6 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně
-
-### Zažít město jinak opět mezi Táborskou a Leopoldovou bránou
-
-Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět přidáme k sousedských slavnostem. Bude hudba, bude blešák i sousedská hostina! Aktuality sledujte na [facebookové události](https://www.facebook.com/events/465723042715648) 
-
-
-![ZMJ](Imgs/Plakat_ZMJ.png)
-
-<br />
-<br />
-<br />
-
 ## Program říjen
 ![program aktualni](Programy/Taborka-2024-10rijen.png)
 
@@ -26,7 +13,7 @@ Je to tu! Ve spolupráci s Národní kulturní památkou Vyšehrad se opět při
 
 ## Programy minulé
 * [Říjen](Programy/Taborka-2024-10rijen.pdf)
-* [Září 2024](Programy/Taborka-2024-09.pdf)
+* [Září 2024](Programy/Taborka-2024-09.pdf), [Zažít město jinak 2024](Imgs/Plakat_ZMJ.png)
 * [Červenec a srpen 2024](Programy/Taborka-2024-0708.jpg)
 * [Červen 2024](Programy/Taborka-2024-06.pdf )
 * [Květen 2024](Programy/Taborka-2024-05.pdf )
