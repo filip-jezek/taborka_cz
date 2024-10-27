@@ -8,15 +8,18 @@
 ## Aktuálně - registrace na listopadové akce
 Na některé listopadové akce je potřeba se předem registrovat. Pomůže nám to hlavně připravit materiál a rozdělit kapacity. Díky!
 
-* [Sobota 9.11. DÍLNA VÝROBY DŘEVĚNÝCH HRAČEK](https://forms.gle/1CntLRs3btNVm21a8)
+* [**Sobota 9.11.** DÍLNA VÝROBY DŘEVĚNÝCH HRAČEK](https://forms.gle/1CntLRs3btNVm21a8)
   Přijďte s námi oslavit svatého Martina výrobou dřevěných hraček s Martinem! Truhlář Martin Libecajt opět zopakuje svou loňskou dílnu. Společně budeme vyrábět dřevěné hračky, což je skvělá příležitost nejen pro děti, ale i dospělé zapojit svou kreativitu a vytvořit něco vlastníma rukama. [Registrace]((https://forms.gle/1CntLRs3btNVm21a8))
-* [Neděle 24.11.] Rodinná pátračka - zde najdete již brzy úvodní propozice.
-* [Čtvrtek 28.11. TÁBORKA V TAKAVÁRNĚ: VÁNOČNÍ VĚNCE](https://forms.gle/Eiheknand4MTGcHRA)
-  Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší kavárny. Těšíme se na vás! [Registrace](https://forms.gle/Eiheknand4MTGcHRA)
+* **Neděle 24.11.** Rodinná pátračka - zde najdete již brzy úvodní propozice.
+* [**Čtvrtek 28.11.** TÁBORKA V TAKAVÁRNĚ: VÁNOČNÍ VĚNCE](https://forms.gle/Eiheknand4MTGcHRA)
+  Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší oblíbené kavárny. Těšíme se na vás! [Registrace](https://forms.gle/Eiheknand4MTGcHRA)
 
 
 ## Program říjen
 ![program aktualni](Programy/Taborka-2024-10rijen.png)
+
+## Program listopad
+![program aktualni](Programy/Taborka-2024-11.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
