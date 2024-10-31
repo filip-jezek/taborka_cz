@@ -14,10 +14,6 @@ Na některé listopadové akce je potřeba se předem registrovat. Pomůže nám
 * [**Čtvrtek 28.11.** TÁBORKA V TAKAVÁRNĚ: VÁNOČNÍ VĚNCE](https://forms.gle/Eiheknand4MTGcHRA)
   Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší oblíbené kavárny. Těšíme se na vás! [Registrace](https://forms.gle/Eiheknand4MTGcHRA)
 
-
-## Program říjen
-![program aktualni](Programy/Taborka-2024-10rijen.png)
-
 ## Program listopad
 ![program aktualni](Programy/Taborka-2024-11.jpg)
 
