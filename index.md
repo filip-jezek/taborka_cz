@@ -9,10 +9,12 @@
 Na některé listopadové akce je potřeba se předem registrovat. Pomůže nám to hlavně připravit materiál a rozdělit kapacity. Díky!
 
 * **Sobota 9.11.** DÍLNA VÝROBY DŘEVĚNÝCH HRAČEK
-  Přijďte s námi oslavit svatého Martina výrobou dřevěných hraček s Martinem! Truhlář Martin Libecajt opět zopakuje svou loňskou dílnu. Společně budeme vyrábět dřevěné hračky, což je skvělá příležitost nejen pro děti, ale i dospělé zapojit svou kreativitu a vytvořit něco vlastníma rukama. *Kapacita bohužel naplněna, registrace již není možná*
+  Přijďte s námi oslavit svatého Martina výrobou dřevěných hraček s Martinem! Truhlář Martin Libecajt opět zopakuje svou loňskou dílnu. Společně budeme vyrábět dřevěné hračky, což je skvělá příležitost nejen pro děti, ale i dospělé zapojit svou kreativitu a vytvořit něco vlastníma rukama. 
+*Kapacita bohužel naplněna, registrace již není možná*
 * **Neděle 24.11.** Rodinná pátračka - zde najdete již brzy úvodní propozice.
 * **Čtvrtek 28.11.** TÁBORKA V TAKAVÁRNĚ: VÁNOČNÍ VĚNCE
-  Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší oblíbené kavárny. Těšíme se na vás! *Je nám líto, ale kapacita je už zcela naplněna, již není možné se registrovat.*
+  Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší oblíbené kavárny. Těšíme se na vás! 
+*Je nám líto, ale kapacita je už zcela naplněna, již není možné se registrovat.*
 
 ## Program listopad
 ![program aktualni](Programy/Taborka-2024-11.jpg)
