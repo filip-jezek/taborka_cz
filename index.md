@@ -5,17 +5,15 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně - registrace na listopadové akce
-Na některé listopadové akce je potřeba se předem registrovat. Pomůže nám to hlavně připravit materiál a rozdělit kapacity. Díky!
+## Aktuálně - registrace
+Na některé akce je potřeba se předem registrovat. Pomůže nám to hlavně připravit materiál a rozdělit kapacity. Díky!
 
-* **Sobota 9.11.** DÍLNA VÝROBY DŘEVĚNÝCH HRAČEK
-  Přijďte s námi oslavit svatého Martina výrobou dřevěných hraček s Martinem! Truhlář Martin Libecajt opět zopakuje svou loňskou dílnu. Společně budeme vyrábět dřevěné hračky, což je skvělá příležitost nejen pro děti, ale i dospělé zapojit svou kreativitu a vytvořit něco vlastníma rukama. 
-*Kapacita bohužel naplněna, registrace již není možná*
-* **Neděle 24.11.** Rodinná pátračka: **Cesta kolem Vyšehradu za 80 minut** \
-  Zvládnete najít cestu, překonat překážky a obejít, objet, obletět, obeplout a oblézt Vyšehrad do 80 minut? To se povede jen těm nejlepším! Vychází se od 15h ze zahrady Táborky, pátrači budou vyrážet s 5minutovým rozestupem. Prosíme o [registraci](https://forms.gle/RtHPne28rpWxo2Gx8) ať můžeme hru lépe nadimenzovat.
 * **Čtvrtek 28.11.** TÁBORKA V TAKAVÁRNĚ: VÁNOČNÍ VĚNCE
   Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší oblíbené kavárny. Těšíme se na vás! 
 *Je nám líto, ale kapacita je už zcela naplněna, již není možné se registrovat.*
+* **Neděle 8.12.** Rodinná pátračka: **Zachraňte Vánoce** \
+  Vánoce jsou v ohrožení! Legendární pražský orloj se porouchal a jeho mechanika potřebuje opravit. Pomožte mistru Hanušovi najít ztracená kolečka a orloj opravit. Záchrana Vánoc je na vás!
+ Prosíme o [registraci]([https://forms.gle/RtHPne28rpWxo2Gx8](https://docs.google.com/spreadsheets/d/1HFzdv4wcNkvxJKcwpf_KmLicP2AGVcDOQSW3p6fSy1c/edit?gid=0#gid=0)) ať můžeme hru správně nadimenzovat. Uvítame dobrovolný příspěvek, doporučeno 100kč na rodinu.
 
 ## Program listopad
 ![program aktualni](Programy/Taborka-2024-11.jpg)
@@ -24,6 +22,7 @@ Na některé listopadové akce je potřeba se předem registrovat. Pomůže nám
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy minulé
+* [Prosinec](Programy/Taborka-2024-12.pdf)
 * [Listopad](Programy/Taborka-2024-11.pdf)
 * [Říjen](Programy/Taborka-2024-10rijen.pdf)
 * [Září 2024](Programy/Taborka-2024-09.pdf), [Zažít město jinak 2024](Imgs/Plakat_ZMJ.png)
