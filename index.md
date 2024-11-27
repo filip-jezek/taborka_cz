@@ -13,7 +13,7 @@ Na některé akce je potřeba se předem registrovat. Pomůže nám to hlavně p
 *Je nám líto, ale kapacita je už zcela naplněna, již není možné se registrovat.*
 * **Neděle 8.12.** Rodinná pátračka: **Zachraňte Vánoce** \
   Vánoce jsou v ohrožení! Legendární pražský orloj se porouchal a jeho mechanika potřebuje opravit. Pomožte mistru Hanušovi najít ztracená kolečka a orloj opravit. Záchrana Vánoc je na vás!
- Prosíme o [registraci]([https://forms.gle/RtHPne28rpWxo2Gx8](https://docs.google.com/spreadsheets/d/1HFzdv4wcNkvxJKcwpf_KmLicP2AGVcDOQSW3p6fSy1c/edit?gid=0#gid=0)) ať můžeme hru správně nadimenzovat. Uvítame dobrovolný příspěvek, doporučeno 100kč na rodinu.
+ Prosíme o [registraci](https://docs.google.com/spreadsheets/d/1HFzdv4wcNkvxJKcwpf_KmLicP2AGVcDOQSW3p6fSy1c/edit?gid=0#gid=0) ať můžeme hru správně nadimenzovat. Uvítame dobrovolný příspěvek, doporučeno 100kč na rodinu.
 
 ## Program listopad
 ![program aktualni](Programy/Taborka-2024-11.jpg)
