@@ -15,8 +15,8 @@ Na některé akce je potřeba se předem registrovat. Pomůže nám to hlavně p
   Vánoce jsou v ohrožení! Legendární pražský orloj se porouchal a jeho mechanika potřebuje opravit. Pomožte mistru Hanušovi najít ztracená kolečka a orloj opravit. Záchrana Vánoc je na vás!
  Prosíme o [registraci](https://docs.google.com/spreadsheets/d/1HFzdv4wcNkvxJKcwpf_KmLicP2AGVcDOQSW3p6fSy1c/edit?gid=0#gid=0) ať můžeme hru správně nadimenzovat. Uvítame dobrovolný příspěvek, doporučeno 100kč na rodinu.
 
-## Program listopad
-![program aktualni](Programy/Taborka-2024-11.jpg)
+## Program prosinec
+![program aktualni](Programy/Taborka-2024-12.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
