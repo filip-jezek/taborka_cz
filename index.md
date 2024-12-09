@@ -5,12 +5,8 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně - registrace
-Na některé akce je potřeba se předem registrovat. Pomůže nám to hlavně připravit materiál a rozdělit kapacity. Díky!
-
-* **Neděle 8.12.** Rodinná pátračka: **Zachraňte Vánoce** \
-  Vánoce jsou v ohrožení! Legendární pražský orloj se porouchal a jeho mechanika potřebuje opravit. Pomožte mistru Hanušovi najít ztracená kolečka a orloj opravit. Záchrana Vánoc je na vás! \
-Vyberte si [časový slot, kdy vyrazit](https://docs.google.com/spreadsheets/d/1HFzdv4wcNkvxJKcwpf_KmLicP2AGVcDOQSW3p6fSy1c/edit?gid=0#gid=0), zároveň nám tím pomůžete hru správně nadimenzovat. Uvítame dobrovolný příspěvek, doporučeno 100kč na rodinu.
+## Aktuálně
+Dnes nic aktuálního není.
 
 ## Program prosinec
 ![program aktualni](Programy/Taborka-2024-12.jpg)
