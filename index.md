@@ -5,16 +5,14 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně
-Dnes nic aktuálního není.
-
-## Program prosinec
-![program aktualni](Programy/Taborka-2024-12.jpg)
+## Program Leden a únor
+![program aktualni](Programy/Taborka-2025-01_02.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy minulé
+* [Prosinec](Programy/Taborka-2025-01_02.pdf)
 * [Prosinec](Programy/Taborka-2024-12.pdf)
 * [Listopad](Programy/Taborka-2024-11.pdf)
 * [Říjen](Programy/Taborka-2024-10rijen.pdf)
