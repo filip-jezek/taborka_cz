@@ -5,18 +5,11 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně - registrace
-Na některé akce je potřeba se předem registrovat. Pomůže nám to hlavně připravit materiál a rozdělit kapacity. Díky!
+## Aktuálně
+Dnes nic aktuálního není.
 
-* **Čtvrtek 28.11.** TÁBORKA V TAKAVÁRNĚ: VÁNOČNÍ VĚNCE
-  Přijďte si do TaKavárny vytvořit svůj vlastní vánoční věnec a užít si příjemnou předvánoční atmosféru! Pod vedením zkušených lektorů budete mít možnost zapojit svou kreativitu a vyrobit originální dekoraci na vánoční stůl či dveře. Všechny potřebné materiály budou připraveny, stačí si přinést jen chuť tvořit. A samozřejmě si můžete dát i něco dobrého z naší oblíbené kavárny. Těšíme se na vás! 
-*Je nám líto, ale kapacita je už zcela naplněna, již není možné se registrovat.*
-* **Neděle 8.12.** Rodinná pátračka: **Zachraňte Vánoce** \
-  Vánoce jsou v ohrožení! Legendární pražský orloj se porouchal a jeho mechanika potřebuje opravit. Pomožte mistru Hanušovi najít ztracená kolečka a orloj opravit. Záchrana Vánoc je na vás!
- Prosíme o [registraci]([https://forms.gle/RtHPne28rpWxo2Gx8](https://docs.google.com/spreadsheets/d/1HFzdv4wcNkvxJKcwpf_KmLicP2AGVcDOQSW3p6fSy1c/edit?gid=0#gid=0)) ať můžeme hru správně nadimenzovat. Uvítame dobrovolný příspěvek, doporučeno 100kč na rodinu.
-
-## Program listopad
-![program aktualni](Programy/Taborka-2024-11.jpg)
+## Program prosinec
+![program aktualni](Programy/Taborka-2024-12.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
