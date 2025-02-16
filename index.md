@@ -5,6 +5,10 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
+## KPZ (komunitně podporované zemědělství)
+Chcete pravidelný závoz sezonní biozeleniny od českého farmáře? Zapojte se do již druhého ročníku Táborské KPZ! KPZ, neboli Komunitou Podporované Zemědělství, funguje na principu “předplatného” zeleniny přímo od farmáře. Cíl je mít kvalitní biozeleninu za dostupnou cenu, ta naše bude opět od pana Králíčka. [Více informací](Pages/KPZ_info.html)
+[Chci se přidat!](https://forms.gle/EHdZUK2bTq6gXKku8)
+
 ## Program Leden a únor
 ![program aktualni](Programy/Taborka-2025-01_02.jpg)
 
