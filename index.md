@@ -19,7 +19,7 @@ Vydejte se na dobrodružnou výpravu do podhradí a pomozte chůvě i princezně
 
 Prosím [napište se nám do tabulky](https://docs.google.com/spreadsheets/d/1-4EGMahYhjlaxOUQCQgE8I3BT3PL_8vy5k3odaNHTjI/edit?usp=sharing) ať víme kdy s vámi počítat! Díky!
 
-## Program Leden a únor
+## Program březen
 ![program aktualni](Programy/Taborka-2025-03.jpg)
 
 ## Aktuální kalendář - co se děje
