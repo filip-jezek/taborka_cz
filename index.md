@@ -5,21 +5,32 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## KPZ (komunitně podporované zemědělství)
+## Aktuálně
+
+
+### KPZ (komunitně podporované zemědělství)
 Chcete pravidelný závoz sezonní biozeleniny od českého farmáře? Zapojte se do již druhého ročníku Táborské KPZ! KPZ, neboli Komunitou Podporované Zemědělství, funguje na principu “předplatného” zeleniny přímo od farmáře. Cíl je mít kvalitní biozeleninu za dostupnou cenu, ta naše bude opět od pana Králíčka. [Více informací](Pages/KPZ_info.html)
 [Chci se přidat!](https://forms.gle/EHdZUK2bTq6gXKku8)
 
+### Registrace na rodinnou pátračku
+Princezna vyšehradská se chystá na svůj první Jarní ples, bohužel je tuze smutná, jelikož se ji ztratil její oblíbený náhrdelník. 
+Ze ztráty je obviněna její stařičká chůva a hrozí ji šatlava. 
+Vydejte se na dobrodružnou výpravu do podhradí a pomozte chůvě i princezně najít do začátku plesu ztracený klenot!
+
+Prosím [napište se nám do tabulky](https://docs.google.com/spreadsheets/d/1-4EGMahYhjlaxOUQCQgE8I3BT3PL_8vy5k3odaNHTjI/edit?usp=sharing) ať víme kdy s vámi počítat! Díky!
+
 ## Program Leden a únor
-![program aktualni](Programy/Taborka-2025-01_02.jpg)
+![program aktualni](Programy/Taborka-2025-03.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Programy minulé
-* [Prosinec](Programy/Taborka-2025-01_02.pdf)
-* [Prosinec](Programy/Taborka-2024-12.pdf)
-* [Listopad](Programy/Taborka-2024-11.pdf)
-* [Říjen](Programy/Taborka-2024-10rijen.pdf)
+## Programy v pdf
+* [Březen 2025](Programy/Taborka-2025-03.pdf)
+* [Leden-únor 2025](Programy/Taborka-2025-01_02.pdf)
+* [Prosinec 2024](Programy/Taborka-2024-12.pdf)
+* [Listopad 2024](Programy/Taborka-2024-11.pdf)
+* [Říjen 2024](Programy/Taborka-2024-10rijen.pdf)
 * [Září 2024](Programy/Taborka-2024-09.pdf), [Zažít město jinak 2024](Imgs/Plakat_ZMJ.png)
 * [Červenec a srpen 2024](Programy/Taborka-2024-0708.jpg)
 * [Červen 2024](Programy/Taborka-2024-06.pdf )
