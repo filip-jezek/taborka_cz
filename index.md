@@ -7,10 +7,9 @@
 
 ## Aktuálně
 
+### Sousedský úklid
 
-### KPZ (komunitně podporované zemědělství)
-Chcete pravidelný závoz sezonní biozeleniny od českého farmáře? Zapojte se do již druhého ročníku Táborské KPZ! KPZ, neboli Komunitou Podporované Zemědělství, funguje na principu “předplatného” zeleniny přímo od farmáře. Cíl je mít kvalitní biozeleninu za dostupnou cenu, ta naše bude opět od pana Králíčka. [Více informací](Pages/KPZ_info.html)
-[Chci se přidat!](https://forms.gle/EHdZUK2bTq6gXKku8)
+Vezmeme rukavice, pytle na odpadky a pustíme se do úklidu cest a cestiček po kterých chodíme z různých směrů do Táborky. Pomůcky a odvoz odpadu zajištěn. Pro jednotlivce, páry i rodiny s dětmi.  Akce proběhne v rámci [Ukliďmě Česko 2025](https://www.uklidmecesko.cz/).
 
 ### Registrace na rodinnou pátračku
 Princezna vyšehradská se chystá na svůj první Jarní ples, bohužel je tuze smutná, jelikož se ji ztratil její oblíbený náhrdelník. 
