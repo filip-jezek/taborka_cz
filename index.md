@@ -5,26 +5,14 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně
-
-### Sousedský úklid
-
-Vezmeme rukavice, pytle na odpadky a pustíme se do úklidu cest a cestiček po kterých chodíme z různých směrů do Táborky. Pomůcky a odvoz odpadu zajištěn. Pro jednotlivce, páry i rodiny s dětmi.  Akce proběhne v rámci [Ukliďmě Česko 2025](https://www.uklidmecesko.cz/).
-
-### Registrace na rodinnou pátračku
-Princezna vyšehradská se chystá na svůj první Jarní ples, bohužel je tuze smutná, jelikož se ji ztratil její oblíbený náhrdelník. 
-Ze ztráty je obviněna její stařičká chůva a hrozí ji šatlava. 
-Vydejte se na dobrodružnou výpravu do podhradí a pomozte chůvě i princezně najít do začátku plesu ztracený klenot!
-
-Prosím [napište se nám do tabulky](https://docs.google.com/spreadsheets/d/1-4EGMahYhjlaxOUQCQgE8I3BT3PL_8vy5k3odaNHTjI/edit?usp=sharing) ať víme kdy s vámi počítat! Díky!
-
-## Program březen
-![program aktualni](Programy/Taborka-2025-03.jpg)
+## Program duben
+![program aktualni](Programy/Taborka-2025-04.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Duben 2025](Programy/Taborka-2025-04.pdf)
 * [Březen 2025](Programy/Taborka-2025-03.pdf)
 * [Leden-únor 2025](Programy/Taborka-2025-01_02.pdf)
 * [Prosinec 2024](Programy/Taborka-2024-12.pdf)
