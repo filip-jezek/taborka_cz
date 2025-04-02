@@ -5,6 +5,12 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
+## Ten Blešák u Ta Kavárny ve čtvrtek 3.4. ve 14h
+
+Blešák začne ve 14h. Kromě oblečení, doplňků, potřeb do domácnosti, hraček či sportovního vybavení (vše ve slušném a čistém stavu), budou k dispozici i knihy ze sbírky [Vyšehradského jezdce](https://vysehradskej.cz/). V kavárně bude od 16 hodin probíhat [výtvarná dílna pro děti](https://www.facebook.com/events/2204543980003573/). Děti si během blešáku mohou vytvořit vlastní postavičky kombinováním různých částí těla, nebo si prodat a směnit své věci.
+
+Na blešáku nejsou kromě dětí klasičtí prodejci. Ten Blešák je charitativní, jeho výtěžek putuje TA KAVÁRNĚ.
+
 ## Program duben
 ![program aktualni](Programy/Taborka-2025-04.jpg)
 
