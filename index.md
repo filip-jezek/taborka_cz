@@ -5,19 +5,24 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Ten Blešák u Ta Kavárny ve čtvrtek 3.4. ve 14h
+## Aktuálně
 
-Blešák začne ve 14h. Kromě oblečení, doplňků, potřeb do domácnosti, hraček či sportovního vybavení (vše ve slušném a čistém stavu), budou k dispozici i knihy ze sbírky [Vyšehradského jezdce](https://vysehradskej.cz/). V kavárně bude od 16 hodin probíhat [výtvarná dílna pro děti](https://www.facebook.com/events/2204543980003573/). Děti si během blešáku mohou vytvořit vlastní postavičky kombinováním různých částí těla, nebo si prodat a směnit své věci.
+### Registrace na truhlářskou dílnu s Martinem 18.5.
+Zpátky do dílny! Pod vedením truhláře Martina si vyrobíme vlastní dřevěné hračky. Skvělá příležitost tvořit rukama – pro děti i dospělé. Kapacita je bohužel omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1hpDz11gs66YX3PAKPfVq3d1hS_GYaiDG-cyj-frvXyU/edit?gid=0#gid=0).
 
-Na blešáku nejsou kromě dětí klasičtí prodejci. Ten Blešák je charitativní, jeho výtěžek putuje TA KAVÁRNĚ.
+### Registrace na rodinnou pátračku
+O Velikonocích se ztratilo vejce... ale ne od králíčka,  
+ale od draka! Dokážete ho najít dřív než se vylíhne a srovná Vyšehrad se zemí? Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1IV1Q_1xfUzR99yZdohfknVLlCxWxFdnKAYMA7NxMZok/edit?gid=0#gid=0).
 
 ## Program duben
-![program aktualni](Programy/Taborka-2025-04.jpg)
+
+![program aktualni](Programy/Taborka-2025-05.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Květen 2025](Programy/Taborka-2025-05.pdf)
 * [Duben 2025](Programy/Taborka-2025-04.pdf)
 * [Březen 2025](Programy/Taborka-2025-03.pdf)
 * [Leden-únor 2025](Programy/Taborka-2025-01_02.pdf)
