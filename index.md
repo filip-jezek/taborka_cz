@@ -56,8 +56,10 @@ Ve Svahu 1, Praha 4 \
 \
 [taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)\
 \
-[Stanovy spolku](Imgs/Taborka-stanovy.pdf)\
+[Výroční zpráva 2024](Imgs/Taborka-vyrocni zprava 2024.pdf)\
 [Výroční zpráva 2023](Imgs/Taborka-vyrocni zprava 2023.pdf)\
+[Stanovy spolku](Imgs/Taborka-stanovy.pdf)\
+
 \
 ---
 *[[Edit]](https://github.com/filip-jezek/taborka_cz)*
