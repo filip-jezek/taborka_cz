@@ -14,7 +14,7 @@ Zpátky do dílny! Pod vedením truhláře Martina si vyrobíme vlastní dřevě
 O Velikonocích se ztratilo vejce... ale ne od králíčka,  
 ale od draka! Dokážete ho najít dřív než se vylíhne a srovná Vyšehrad se zemí? Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1IV1Q_1xfUzR99yZdohfknVLlCxWxFdnKAYMA7NxMZok/edit?gid=0#gid=0).
 
-## Program duben
+## Program květen
 
 ![program aktualni](Programy/Taborka-2025-05.jpg)
 
