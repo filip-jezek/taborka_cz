@@ -7,12 +7,10 @@
 
 ## Aktuálně
 
-### Registrace na truhlářskou dílnu s Martinem 18.5.
-Zpátky do dílny! Pod vedením truhláře Martina si vyrobíme vlastní dřevěné hračky. Skvělá příležitost tvořit rukama – pro děti i dospělé. Kapacita je bohužel omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1hpDz11gs66YX3PAKPfVq3d1hS_GYaiDG-cyj-frvXyU/edit?gid=0#gid=0).
-
 ### Registrace na rodinnou pátračku
-O Velikonocích se ztratilo vejce... ale ne od králíčka,  
-ale od draka! Dokážete ho najít dřív než se vylíhne a srovná Vyšehrad se zemí? Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1IV1Q_1xfUzR99yZdohfknVLlCxWxFdnKAYMA7NxMZok/edit?gid=0#gid=0).
+O Velikonocích se ztratilo vejce... ale ne od králíčka,ale od draka! Dokážete pomoct zoufalé dračici a najít ho dřív než si ho dá někdo k snídani?
+
+Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1IV1Q_1xfUzR99yZdohfknVLlCxWxFdnKAYMA7NxMZok/edit?gid=0#gid=0).
 
 ## Program květen
 
