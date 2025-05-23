@@ -12,14 +12,15 @@ O Velikonocích se ztratilo vejce... ale ne od králíčka,ale od draka! Dokáž
 
 Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1IV1Q_1xfUzR99yZdohfknVLlCxWxFdnKAYMA7NxMZok/edit?gid=0#gid=0).
 
-## Program květen
+## Program červen
 
-![program aktualni](Programy/Taborka-2025-05.jpg)
+![program aktualni](Programy/Taborka-2025-06.jpg)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Červen 2025](Programy/Taborka-2025-06.pdf)
 * [Květen 2025](Programy/Taborka-2025-05.pdf)
 * [Duben 2025](Programy/Taborka-2025-04.pdf)
 * [Březen 2025](Programy/Taborka-2025-03.pdf)
