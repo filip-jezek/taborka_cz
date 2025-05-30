@@ -8,9 +8,9 @@
 ## Aktuálně
 
 ### Registrace na rodinnou pátračku
-O Velikonocích se ztratilo vejce... ale ne od králíčka,ale od draka! Dokážete pomoct zoufalé dračici a najít ho dřív než si ho dá někdo k snídani?
+Nejen Vyšehrad je plný podivuhodných míst a bytostí. Například ve Vltavě žije dlouhá léta vodník, který poslední dobou bloumá po břehu a hledá své oblíbené hrníčky pro dušičky. Pomůžete mu?
 
-Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1IV1Q_1xfUzR99yZdohfknVLlCxWxFdnKAYMA7NxMZok/edit?gid=0#gid=0).
+Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1ixNata_IRsdkw-Uf1MKb4R27GCoRBt-PN4FfiU-DuuI/edit?gid=0#gid=0).
 
 ## Program červen
 
@@ -45,20 +45,20 @@ Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadshee
 *  [Nadace Via](https://www.nadacevia.cz/)
 *  [Národní kulturní památka Vyšehrad](https://www.praha-vysehrad.cz/cs)
 
-\
-*Vaše*
-
-Táborka z.s.\
-IČO 19535970 \
-Ve Svahu 1, Praha 4 \
-(Ale najdete nás o kousek vedle, V pevnosti 35/11, Praha 2)\
-\
-[taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)\
-\
-[Výroční zpráva 2024](Imgs/Taborka-vyrocni zprava 2024.pdf)\
-[Výroční zpráva 2023](Imgs/Taborka-vyrocni zprava 2023.pdf)\
-[Stanovy spolku](Imgs/Taborka-stanovy.pdf)\
-
-\
+  
+*Vaše*  
+  
+Táborka z.s.  
+IČO 19535970  
+Ve Svahu 1, Praha 4  
+(Ale najdete nás o kousek vedle, V pevnosti 35/11, Praha 2)  
+  
+[taborka.vysehrad@gmail.com](mailto:taborka.vysehrad@gmail.com)  
+  
+[Výroční zpráva 2024](Imgs/Taborka-vyrocni zprava 2024.pdf)  
+[Výroční zpráva 2023](Imgs/Taborka-vyrocni zprava 2023.pdf)  
+[Stanovy spolku](Imgs/Taborka-stanovy.pdf)  
+  
+  
 ---
 *[[Edit]](https://github.com/filip-jezek/taborka_cz)*
