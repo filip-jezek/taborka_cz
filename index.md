@@ -5,13 +5,6 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Aktuálně
-
-### Registrace na rodinnou pátračku
-Nejen Vyšehrad je plný podivuhodných míst a bytostí. Například ve Vltavě žije dlouhá léta vodník, který poslední dobou bloumá po břehu a hledá své oblíbené hrníčky pro dušičky. Pomůžete mu?
-
-Kapacita omezena, [prosíme o registraci zde](https://docs.google.com/spreadsheets/d/1ixNata_IRsdkw-Uf1MKb4R27GCoRBt-PN4FfiU-DuuI/edit?gid=0#gid=0).
-
 ## Program červen
 
 ![program aktualni](Programy/Taborka-2025-06.jpg)
