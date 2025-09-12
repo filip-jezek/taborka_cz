@@ -9,7 +9,7 @@
 Již tuto sobotu 20.9. se na vás těšíme mezi Táborskou a Leopoldovou branou. 
 Pochlubte se svým receptem, pořiďte si něco nového z Blešáku, poslechněte si místní kapely a poznejte své sousedy!
 
-[![program ZMJ](Programy/ZMJ-Vysehrad-2025.jpg)](ZMJ-Vysehrad-2025.pdf)
+[![program ZMJ](Programy/ZMJ-Vysehrad-2025.jpg)](Programy/ZMJ-Vysehrad-2025.pdf)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
