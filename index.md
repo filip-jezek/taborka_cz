@@ -15,7 +15,7 @@ Pochlubte se svým receptem, pořiďte si něco nového z Blešáku, poslechnět
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
-* [Zažít město jinak 2025](ZMJ-Vysehrad-2025.pdf)
+* [Zažít město jinak 2025](Programy/ZMJ-Vysehrad-2025.pdf)
 * [Červen 2025](Programy/Taborka-2025-06.pdf)
 * [Květen 2025](Programy/Taborka-2025-05.pdf)
 * [Duben 2025](Programy/Taborka-2025-04.pdf)
