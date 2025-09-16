@@ -11,10 +11,20 @@ Pochlubte se svým receptem, pořiďte si něco nového z Blešáku, poslechnět
 
 [![program ZMJ](Programy/ZMJ-Vysehrad-2025.jpg)](Programy/ZMJ-Vysehrad-2025.pdf)
 
+
+## Program Říjen
+
+Máme program na říjen! Chcete ho vidět? A chcete se zapojit do listopadového programu? [Napište nám!](mailto:taborka.vysehrad@gmail.com)  
+
+Na pátračku Vodníkův problém se [prosím zaregistrujte](https://docs.google.com/spreadsheets/d/1ixNata_IRsdkw-Uf1MKb4R27GCoRBt-PN4FfiU-DuuI/edit?pli=1&gid=0#gid=0), kapacita je totiž omezena.
+
+[![Program řijen](Programy/Taborka-2025-10.jpg)](Programy/Taborka-2025-10.pdf)
+
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Říjen 2025](Programy/Taborka-2025-10.pdf)
 * [Zažít město jinak 2025](Programy/ZMJ-Vysehrad-2025.pdf)
 * [Červen 2025](Programy/Taborka-2025-06.pdf)
 * [Květen 2025](Programy/Taborka-2025-05.pdf)
