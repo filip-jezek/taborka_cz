@@ -5,17 +5,9 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Program Zažít město jinak
-Již tuto sobotu 20.9. se na vás těšíme mezi Táborskou a Leopoldovou branou. 
-Pochlubte se svým receptem, pořiďte si něco nového z Blešáku, poslechněte si místní kapely a poznejte své sousedy!
-
-[![program ZMJ](Programy/ZMJ-Vysehrad-2025.jpg)](Programy/ZMJ-Vysehrad-2025.pdf)
-
-
 ## Program Říjen
 
-Máme program na říjen! Chcete ho vidět? A chcete se zapojit do listopadového programu? [Napište nám!](mailto:taborka.vysehrad@gmail.com)  
-
+Máme program na říjen, chcete ho vidět? Jestli máte na chalupě jabka, tak je nechte až do 12 října, společně zmoštujeme!
 Na pátračku Vodníkův problém se [prosím zaregistrujte](https://docs.google.com/spreadsheets/d/1ixNata_IRsdkw-Uf1MKb4R27GCoRBt-PN4FfiU-DuuI/edit?pli=1&gid=0#gid=0), kapacita je totiž omezena.
 
 [![Program řijen](Programy/Taborka-2025-10.jpg)](Programy/Taborka-2025-10.pdf)
