@@ -7,8 +7,7 @@
 
 ## Program Říjen
 
-Máme program na říjen, chcete ho vidět? Jestli máte na chalupě jabka, tak je nechte až do 12 října, společně zmoštujeme!
-Na pátračku Vodníkův problém se [prosím zaregistrujte](https://docs.google.com/spreadsheets/d/1ixNata_IRsdkw-Uf1MKb4R27GCoRBt-PN4FfiU-DuuI/edit?pli=1&gid=0#gid=0), kapacita je totiž omezena.
+Jestli máte na chalupě jabka, tak je nechte až do **12 října**, společně zmoštujeme!
 
 [![Program řijen](Programy/Taborka-2025-10.jpg)](Programy/Taborka-2025-10.pdf)
 
