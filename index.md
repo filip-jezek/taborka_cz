@@ -5,6 +5,10 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
+## Program Prosinec
+
+Kvůli omezené kapacitě je nutné se [registrovat na promítání dokumentu "VEŘEJNĚ PROSPĚŠNÉ PRÁCE"](https://docs.google.com/forms/d/e/1FAIpQLSfy5Jrtdf8Dp9mMWx8qkRy0p0D_3j-UhlEje176w49-v-MRpg/viewform?fbclid=IwY2xjawOD3h1leHRuA2FlbQIxMABicmlkETBNZjg3UWJPM3FBM3U1QUFWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh07Q0WhYPZSdlbh6IY3VYJAmpSoVEMNnh5FjvFxFG_Li1bYAIDWnyhG5s6M_aem_t-acjFcDD9Kf1QAyA8Wxuw), které proběhne ve čtvrtek 11. prosince.
+
 ## Program listopad
 
 Kvůli omezené kapacitě je nutné se [registrovat na dílnu výroby hraček](https://forms.gle/mq7XXhhMN64uu5Bd9) a také na [Vánoční věnce v TaKavárně](https://forms.gle/qagHdJ73uC2hnMLX8).
