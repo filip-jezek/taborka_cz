@@ -9,16 +9,13 @@
 
 Kvůli omezené kapacitě je nutné se [registrovat na promítání dokumentu "VEŘEJNĚ PROSPĚŠNÉ PRÁCE"](https://docs.google.com/forms/d/e/1FAIpQLSfy5Jrtdf8Dp9mMWx8qkRy0p0D_3j-UhlEje176w49-v-MRpg/viewform?fbclid=IwY2xjawOD3h1leHRuA2FlbQIxMABicmlkETBNZjg3UWJPM3FBM3U1QUFWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh07Q0WhYPZSdlbh6IY3VYJAmpSoVEMNnh5FjvFxFG_Li1bYAIDWnyhG5s6M_aem_t-acjFcDD9Kf1QAyA8Wxuw), které proběhne ve čtvrtek 11. prosince.
 
-## Program listopad
-
-Kvůli omezené kapacitě je nutné se [registrovat na dílnu výroby hraček](https://forms.gle/mq7XXhhMN64uu5Bd9) a také na [Vánoční věnce v TaKavárně](https://forms.gle/qagHdJ73uC2hnMLX8).
-
-[![Program listopad](Programy/Taborka-2025-11.jpg)](Programy/Taborka-2025-11.pdf)
+[![Program prosinec](Programy/Taborka-2025-12.jpg)](Programy/Taborka-2025-12.pdf)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Prosinec 2025](Programy/Taborka-2025-12.pdf)
 * [Listopad 2025](Programy/Taborka-2025-11.pdf)
 * [Říjen 2025](Programy/Taborka-2025-10.pdf)
 * [Zažít město jinak 2025](Programy/ZMJ-Vysehrad-2025.pdf)
