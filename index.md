@@ -7,7 +7,7 @@
 
 ## Program Prosinec
 
-Kvůli omezené kapacitě je nutné se [registrovat na promítání dokumentu "VEŘEJNĚ PROSPĚŠNÉ PRÁCE"](https://docs.google.com/forms/d/e/1FAIpQLSfy5Jrtdf8Dp9mMWx8qkRy0p0D_3j-UhlEje176w49-v-MRpg/viewform?fbclid=IwY2xjawOD3h1leHRuA2FlbQIxMABicmlkETBNZjg3UWJPM3FBM3U1QUFWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh07Q0WhYPZSdlbh6IY3VYJAmpSoVEMNnh5FjvFxFG_Li1bYAIDWnyhG5s6M_aem_t-acjFcDD9Kf1QAyA8Wxuw), které proběhne ve čtvrtek 11. prosince.
+Kvůli omezené kapacitě je nutné se [registrovat na promítání dokumentu "VEŘEJNĚ PROSPĚŠNÉ PRÁCE"](https://docs.google.com/forms/d/e/1FAIpQLSfy5Jrtdf8Dp9mMWx8qkRy0p0D_3j-UhlEje176w49-v-MRpg/viewform?fbclid=IwY2xjawOD3h1leHRuA2FlbQIxMABicmlkETBNZjg3UWJPM3FBM3U1QUFWc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh07Q0WhYPZSdlbh6IY3VYJAmpSoVEMNnh5FjvFxFG_Li1bYAIDWnyhG5s6M_aem_t-acjFcDD9Kf1QAyA8Wxuw), které proběhne ve čtvrtek 11. prosince od 17:30.
 
 [![Program prosinec](Programy/Taborka-2025-12.jpg)](Programy/Taborka-2025-12.pdf)
 
