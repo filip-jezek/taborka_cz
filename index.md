@@ -5,6 +5,14 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
+## Jaro začíná v Táborce
+První jarní sobotu strávíme v Táborce a na Vyšehradě společně, a to hned třikrát jinak:
+*  Dopoledne se nejprve pustíme do sousedského úklidu okolí, který završíme posezením s občerstvením - začínáme v 11h
+*  Podvečer bude patřit dětem, hvězdám hravé verze ‘Sousede, co vlastně děláš ?’, během kterého nás nechají nahlédnout do svých jedinečných světů plných fantazie, přátelství, nadšení, nápadů, dovedností a všelijakých DIVů.
+*  Před setměním pak vstoupíme do ‘Noci s Andersenem’, plné čtení a vyprávění příběhů pod širým nebem v zahradě Táborky.
+
+[https://www.facebook.com/events/1448373090293570](Akce na fb)
+
 ## Program Březen
 
 
