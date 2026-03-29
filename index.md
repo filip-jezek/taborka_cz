@@ -5,23 +5,32 @@
 * [Podpořte Táborku](https://www.darujme.cz/taborka)
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
-## Jaro začíná v Táborce
-První jarní sobotu strávíme v Táborce a na Vyšehradě společně, a to hned třikrát jinak:
-*  Dopoledne se nejprve pustíme do sousedského úklidu okolí, který završíme posezením s občerstvením - začínáme v 11h
-*  Podvečer bude patřit dětem, hvězdám hravé verze ‘Sousede, co vlastně děláš ?’, během kterého nás nechají nahlédnout do svých jedinečných světů plných fantazie, přátelství, nadšení, nápadů, dovedností a všelijakých DIVů.
-*  Před setměním pak vstoupíme do ‘Noci s Andersenem’, plné čtení a vyprávění příběhů pod širým nebem v zahradě Táborky.
 
-[https://www.facebook.com/events/1448373090293570](Akce na fb)
+## Program Duben
 
-## Program Březen
+Milí sousedé,
 
+jaro je v plném proudu a naše vyšehradské komunitní centrum v Táborské bráně se v dubnu opět stane místem, kde se můžeme společně zastavit, tvořit a lépe se poznat. 
 
-[![Program březen](Programy/Taborka-2026-03.jpg)](Programy/Taborka-2026-03.pdf)
+Hned 9. dubna oprašujeme [Textilní klub](https://www.facebook.com/events/1436048321048631), kde můžete tvořit, ať už jste začátečníci nebo pokročilí.
+
+Zajímá vás, kdo vlastně bydlí ve vašem vchodě nebo ulici? Ve středu 15. dubna nás čeká další večer [„Sousede, co vlastně děláš?“](https://www.facebook.com/events/2690180038031295), kde v dynamickém formátu představí vaši sousedé své profese i koníčky.
+
+Pro milovníky kinematografie promítáme 22. dubna oceňované japonské drama [Zloději](https://www.facebook.com/events/797474276737128) ([Profil na ČSFD](https://www.csfd.cz/film/603900-zlodeji/prehled/)), které citlivě zkoumá otázky solidarity a rodinných pout.
+
+V pátek 24. dubna nás David Platil [provede fascinujícím vývojem Pankrácké pláně](https://www.facebook.com/events/1621403952080457) – od periferie s nouzovými koloniemi až po dnešní podobu. Přednášku doplníme společnou procházkou.
+
+Zapište si do diářů! Ten Blešák u Ta Kavárny se uskuteční 28.5. od 15h. Pozvěte své přátele a sledujte [FB událost](https://www.facebook.com/events/919501914298786/).
+
+Na všechny naše akce je vstup volný, budeme však vděční za jakýkoliv dobrovolný příspěvek.
+
+[![Program duben](Programy/Taborka-2026-04.jpg)](Programy/Taborka-2026-04.pdf)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Duben 2026](Programy/Taborka-2026-04.pdf)
 * [Březen 2026](Programy/Taborka-2026-03.pdf)
 * [Prosinec 2025](Programy/Taborka-2025-12.pdf)
 * [Listopad 2025](Programy/Taborka-2025-11.pdf)
