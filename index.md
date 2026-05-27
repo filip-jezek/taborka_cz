@@ -6,22 +6,19 @@
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
 
-## Program květen
+## Program červen
 
 Květnový program bude hlavně venku a je nabitý! Přijďte si jen tak pohovět ať už na Otevřený ateliér nebo Open Gate. Dále proběhne tolik oblíbená truhlářská dílna s Martinem Libecajtem - [Prosíme o registraci na truhlářský workshop zde](https://forms.gle/RySByDGVHVAq64WQ7), kapacita je totiž omezena. Ten Blešák netřeba představovat - kousky co se k vám už nevejdou a vyrazily by na další kolo je možné nosit do Ta Kavárny do pondělí 25.5., abychom je stihli roztřídit a připravit.
 
 A to nejlepší na konec: Táborka slaví 3 roky! V neděli 31. května od 14:00 chystáme velkou narozeninovou slavnost se sousedskou pátračkou. Pište si do kalendářů, detaily vám pošleme už brzy.
 
-Těšíme se na vás!
-
-Na všechny naše akce je vstup volný, budeme však vděční za jakýkoliv dobrovolný příspěvek.
-
-[![Program květen](Programy/Taborka-2026-05.jpg)](Programy/Taborka-2026-05.pdf)
+[![Program červen](Programy/Taborka-2026-06.jpg)](Programy/Taborka-2026-06.pdf)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Červen 2026](Programy/Taborka-2026-06.pdf)
 * [Květen 2026](Programy/Taborka-2026-05.pdf)
 * [Duben 2026](Programy/Taborka-2026-04.pdf)
 * [Březen 2026](Programy/Taborka-2026-03.pdf)
@@ -67,6 +64,7 @@ Ve Svahu 1, Praha 4
 [Výroční zpráva 2024](Imgs/Taborka-vyrocni zprava 2024.pdf)  
 [Výroční zpráva 2023](Imgs/Taborka-vyrocni zprava 2023.pdf)  
 [Stanovy spolku](Imgs/Taborka-stanovy.pdf)  
+[Zásady zpracování osobních údajů](Pages/gdpr.md)  
   
   
 ---
