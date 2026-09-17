@@ -6,14 +6,15 @@
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
 
-## Program červen
+## Program Zažít Vyšehrad Jinak
 
-[![Program červen](Programy/Taborka-2026-06.jpg)](Programy/Taborka-2026-06.pdf)
+[![Program ZMJ](Programy/ZMJ-Vysehrad-2026.jpg)](Programy/ZMJ-Vysehrad-2026.pdf)
 
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Zažít město jinak 2026](Programy/ZMJ-Vysehrad-2026.pdf)
 * [Červen 2026](Programy/Taborka-2026-06.pdf)
 * [Květen 2026](Programy/Taborka-2026-05.pdf)
 * [Duben 2026](Programy/Taborka-2026-04.pdf)
