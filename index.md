@@ -10,10 +10,18 @@
 
 [![Program Říjen](Programy/Taborka-2026-10.jpg)](Programy/Taborka-2026-10.pdf)
 
+
+## Program Listopad
+
+Na výrobu adventních věnců je kapacita omezená a je proto [nutné se registrovat zde](https://forms.gle/rseC6PeFoew9nzJ59). 
+
+[![Program Listopad](Programy/Taborka-2026-11.jpg)](Programy/Taborka-2026-11.pdf)
+
 ## Aktuální kalendář - co se děje
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FPrague&bgcolor=%23ffffff&showCalendars=0&src=dGFib3JrYS52eXNlaHJhZEBnbWFpbC5jb20&color=%23F6BF26" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Programy v pdf
+* [Listopad 2026](Programy/Taborka-2026-11.pdf)
 * [Říjen 2026](Programy/Taborka-2026-10.pdf)
 * [Zažít město jinak 2026](Programy/ZMJ-Vysehrad-2026.pdf)
 * [Červen 2026](Programy/Taborka-2026-06.pdf)
