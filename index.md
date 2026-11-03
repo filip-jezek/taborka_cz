@@ -8,7 +8,7 @@
 
 ## Program Listopad
 
-Na výrobu adventních věnců je kapacita omezená a je proto [nutné se registrovat zde](https://forms.gle/rseC6PeFoew9nzJ59). 
+Na výrobu adventních věnců je kapacita ~~omezená a je proto [nutné se registrovat zde](https://forms.gle/rseC6PeFoew9nzJ59)~~ již bohužel zcela zaplněná. 
 
 [![Program Listopad](Programy/Taborka-2026-11.jpg)](Programy/Taborka-2026-11.pdf)
 
