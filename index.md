@@ -6,11 +6,6 @@
 * [Táborka na fb](https://www.facebook.com/taborka.vysehrad)
 
 
-## Program Říjen
-
-[![Program Říjen](Programy/Taborka-2026-10.jpg)](Programy/Taborka-2026-10.pdf)
-
-
 ## Program Listopad
 
 Na výrobu adventních věnců je kapacita omezená a je proto [nutné se registrovat zde](https://forms.gle/rseC6PeFoew9nzJ59). 
